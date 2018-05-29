@@ -22,7 +22,7 @@ def getRSSString(url):
 
 
 # START HERE ...
-feedFile = open ("feeds.txt","r")
+feedFile = open ("./Section 3 - Strings/feeds.txt","r")
 feedURL = feedFile.readline()
 feed = getRSSString(feedURL)
 
