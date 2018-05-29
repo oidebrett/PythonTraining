@@ -5,7 +5,7 @@ mark = random.randint(0,100)
 print("mark is %d " %mark)
 
 if mark>=90:
-    print("H1")
+    print("H0")
 elif mark>=80:
     print("H2")
 elif mark>=70:
