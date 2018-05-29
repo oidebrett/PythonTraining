@@ -1,0 +1,10 @@
+print("Ivo Brett")
+print("45 Riverwood Court")
+print("Castleknock")
+print("Dublin 15")
+
+print("###### ###### ######")
+print("    ## ##     ##")
+print("###### ###### ######")
+print("    ## ##  ##     ##")
+print("###### ###### ######")
